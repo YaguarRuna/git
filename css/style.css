@@ -1,0 +1,26 @@
+.wrapper{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+.centrarf input{
+    text-align: center;
+}
+::-moz-placeholder{
+    text-align: center;
+}
+::-webkit-input-placeholder{
+    text-align: center;
+}
+.espaciar > *{
+    margin: 3em auto !important;
+}
+body>div{
+    background-image: url("../img/bg.jpg");
+}
+.thumbs ul li a img{
+    width:15%; 
+    height: 70%;
+    display: inline-block;
+    margin: 0.7em;
+}
